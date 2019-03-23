@@ -1,0 +1,13 @@
+Józef Żuczek Jaja rodzinne    >   Żuk      [Suma = 150 * 3 = 450]
+
+Marian Kundera Moje kury    >   Iskierka – sklep rodzinny      [Suma = 200 * 2 = 400]
+
+Józef Żuczek Jaja rodzinne    >   Pszczółka      [Suma = 150 * 3 = 450]
+
+Łazarewicz i Spółka – Jaja od pokoleń    >   Pszczółka      [Suma = 280 * 4 = 1120]
+
+Marian Kundera Moje kury    >   Jodłowiec      [Suma = 130 * 5 = 650]
+
+Łazarewicz i Spółka – Jaja od pokoleń    >   Jodłowiec      [Suma = 70 * 6 = 420]
+
+Suma kosztow 3490
